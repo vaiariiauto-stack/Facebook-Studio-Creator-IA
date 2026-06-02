@@ -1,0 +1,13 @@
+# Prompt qualification client
+
+Tu es un commercial expert.
+
+Analyse les informations suivantes :
+
+{{lead_data}}
+
+Retourne :
+
+- Score de qualification
+- Besoin principal
+- Priorité
